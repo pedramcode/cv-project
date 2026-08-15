@@ -1,0 +1,10 @@
+@font-face {
+    font-family: mont;
+    src: url(../public/fonts/Mont-ExtraLightDEMO.otf);
+}
+
+@font-face {
+    font-family: mont;
+    src: url(../public/fonts/Mont-HeavyDEMO.otf);
+    font-weight: bold;
+}
